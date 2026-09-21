@@ -1,99 +1,65 @@
-# 👋 Hi, I'm Mohamad Yaman Alshallah
+# Hi, I'm Mohamad Yaman Alshallah 👋
 
-**Computer Science Graduate | Data & Platform Engineering · Backend & Automation · Applied AI**
+I recently completed my **B.Sc. in Computer Science at Heinrich Heine University Düsseldorf** and am currently continuing with an **M.Sc. in Computer Science**.
 
-I am a Computer Science graduate from **Heinrich Heine University Düsseldorf (HHU)** with more than three years of practical experience in enterprise IT. My experience spans **data platforms, database operations, workload automation, backend engineering, and applied AI**.
+Alongside my studies, I have been working in enterprise IT at **HSBC in Düsseldorf since 2023**, first in **Data Platforms** and later in **Digital Business Automation**. Through this work and my university projects, I have gained practical experience with databases, workload automation, Java/Spring backend development, Python, and LLM-based experimentation.
 
-I currently work as a working student at **HSBC in Düsseldorf**, where I have contributed to Data Platforms and Digital Business Automation environments. In parallel, I am enrolled in the **M.Sc. Computer Science** program at HHU.
+I am particularly interested in **data and platform engineering, backend systems, automation, and applied AI**. Over time, I want to deepen this foundation further in cloud, DevOps, and AI infrastructure.
 
-My current technical focus is on building reliable data- and backend-oriented systems and extending this foundation toward **platform engineering, cloud, DevOps, and AI infrastructure**.
+## Selected work
 
----
+### [Bachelor Thesis — Context-Aware Prompt Engineering](https://github.com/moals107/bachelor-thesis-code)
 
-## 🚀 Featured Project
+I built a reproducible inference and evaluation pipeline to study whether document context and annotation guidelines improve argument identification with open-weight Instruct LLMs.
 
-### [Context-Aware Prompt Engineering for Generalizable Argument Identification](https://github.com/moals107/bachelor-thesis-code)
+- 8 Instruct LLMs
+- 4 prompt variants
+- 4 datasets with 1,360 evaluation instances
+- 43,520 classifications
+- deterministic, 4-bit quantized GPU inference on NVIDIA L4 / A100
 
-Bachelor thesis project investigating whether document context and annotation guidelines improve LLM-based argument identification across datasets and model families.
+**Tech:** Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas · BitsAndBytes
 
-- **8** open-weight Instruct LLMs
-- **4** prompt variants
-- **4** datasets / **1,360** evaluation instances
-- **43,520** LLM classifications
-- Reproducible inference and evaluation pipeline
-- Deterministic 4-bit quantized GPU inference on NVIDIA L4 / A100
+### Academic software engineering
 
-**Tech:** Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas · BitsAndBytes · Google Colab
+During my bachelor's degree, I worked on several practical software projects, including:
 
----
+- a relational database and REST backend with **Java, Spring Boot, SQL, SQLite, Spring Security, JDBC, and Docker**
+- two programming labs (20 ECTS) covering **Java, Spring, Git/Gradle, JUnit/TDD, refactoring, SOLID, web security, databases, Docker, and concurrency**
 
-## 🧩 Selected Engineering Experience
+I am currently preparing selected university projects for publication here on GitHub.
 
-### Relational Database & REST Backend — Individual University Project
-
-End-to-end database/backend project covering conceptual data modeling, relational schema design, SQL integrity constraints, triggers, REST endpoints, authentication/authorization, and containerized execution.
-
-**Tech:** Java 21 · Spring Boot · Spring JDBC / JdbcTemplate · Spring Security · SQLite · SQL · REST · Docker Compose · Gradle
-
-### Practical Software Engineering Coursework
-
-Two extensive programming labs (20 ECTS) with hands-on work in software engineering and web development, including:
-
-- Java, Spring Boot / MVC, Gradle, Git
-- JUnit, testing / TDD, mocking and refactoring
-- SOLID principles and software architecture
-- Spring Security and web application security
-- Docker, databases, persistence and consistency
-- Concurrency and multi-threaded programming
-
----
-
-## 🛠 Technical Skills
+## Tech I have worked with
 
 **Programming & Backend**  
-Java · Python · SQL · C · Spring Boot · Spring MVC · Spring Security · REST APIs · Spring JDBC / JdbcTemplate · JUnit / TDD · Gradle
+Java · Python · SQL · C · Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JUnit/TDD · Gradle
 
-**Databases & Data**  
-DB2 · SQLite · MySQL · Relational Data Modeling · pandas · NumPy · scikit-learn · Matplotlib
+**Data & Databases**  
+DB2 · SQLite · MySQL · relational data modeling · pandas · NumPy · scikit-learn · Matplotlib
 
-**AI / LLM / NLP**  
-PyTorch · Hugging Face Transformers · BitsAndBytes · LLM Inference & Evaluation · Prompt Engineering · NLP · Argument Mining
+**AI / NLP**  
+PyTorch · Hugging Face Transformers · LLM inference & evaluation · prompt engineering · NLP · argument mining
 
 **Enterprise IT & Automation**  
-IBM Workload Scheduler · Dynamic Workload Console · Batch Processing · IBM Cognos Analytics · ServiceNow · Confluence · JCL
+IBM Workload Scheduler · Dynamic Workload Console · batch processing · IBM Cognos Analytics · ServiceNow · Confluence · JCL
 
 **Development & Systems**  
-Git · GitHub / GitLab · Docker / Docker Compose · Linux · IntelliJ IDEA · Visual Studio Code · Toad · PuTTY · mRemote
+Git · GitHub/GitLab · Docker · Linux · IntelliJ IDEA · Visual Studio Code
 
----
-
-## 💼 Experience
+## Experience
 
 **HSBC, Düsseldorf — Working Student, IT**  
 *Data Platforms & Digital Business Automation · 2023–Present*
 
-Enterprise IT experience across database/platform operations, workload automation, batch processing, reporting, service management, and technical documentation.
+Work across database/platform operations, workload automation, batch processing, reporting, service management, and technical documentation in an international enterprise environment.
 
----
+## Education
 
-## 🎓 Education
-
-**M.Sc. Computer Science**  
-Heinrich Heine University Düsseldorf · *2026–Present*
-
-**B.Sc. Computer Science**  
-Heinrich Heine University Düsseldorf · *2021–2026*
+**M.Sc. Computer Science** — Heinrich Heine University Düsseldorf, 2026–Present  
+**B.Sc. Computer Science** — Heinrich Heine University Düsseldorf, 2021–2026
 
 Bachelor thesis: *Prompt-Engineering zur kontextabhängigen, generalisierbaren Identifikation von Argumenten*
 
----
-
-## 🌐 Languages
+## Languages
 
 German — native-level proficiency · Arabic — native · English — C1 / professional working proficiency
-
----
-
-## 📍 Currently
-
-Based in **North Rhine-Westphalia, Germany** and interested in full-time opportunities in **Data Engineering, Platform Engineering, Backend Engineering, Cloud / DevOps, and Applied AI / MLOps**.
