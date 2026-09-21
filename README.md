@@ -20,14 +20,15 @@ I built a reproducible inference and evaluation pipeline to study whether docume
 
 **Tech:** Python · PyTorch · Hugging Face Transformers · scikit-learn · pandas · BitsAndBytes
 
+### [Community Platform Backend](https://github.com/moals107/community-platform-backend)
+
+An individual university project covering the full path from relational database design to a REST backend, including SQL constraints and triggers, JDBC persistence and Docker-based execution.
+
+**Tech:** Java · Spring Boot · Spring JDBC / JdbcTemplate · SQLite · SQL · Spring Security · Docker
+
 ### Academic software engineering
 
-During my bachelor's degree, I worked on several practical software projects, including:
-
-- a relational database and REST backend with **Java, Spring Boot, SQL, SQLite, Spring Security, JDBC, and Docker**
-- two programming labs (20 ECTS) covering **Java, Spring, Git/Gradle, JUnit/TDD, refactoring, SOLID, web security, databases, Docker, and concurrency**
-
-I am currently preparing selected university projects for publication here on GitHub.
+Two programming labs (20 ECTS) with practical work in **Java, Spring, Git/Gradle, JUnit/TDD, refactoring, SOLID, web security, databases, Docker, and concurrency**.
 
 ## Tech I have worked with
 
