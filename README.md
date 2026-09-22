@@ -30,6 +30,16 @@ An individual university project covering the full path from relational database
 
 Two programming labs (20 ECTS) with practical work in **Java, Spring, Git/Gradle, JUnit/TDD, refactoring, SOLID, web security, databases, Docker, and concurrency**.
 
+
+<details>
+<summary><strong>Other academic work</strong></summary>
+
+- [Koch Snowflake — Fractal Geometry & Data Visualization](./academic-projects/koch-snowflake.md)
+- [Brain-Machine Interfaces — Digital Innovation Seminar](./academic-projects/brain-machine-interfaces.md)
+- [JupiGuide — Digital Innovation Concept](./academic-projects/jupiguide.md)
+
+</details>
+
 ## Tech I have worked with
 
 **Programming & Backend**  
