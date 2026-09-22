@@ -30,6 +30,8 @@ An individual university project covering the full path from relational database
 
 Two programming labs (20 ECTS) with practical work in **Java, Spring, Git/Gradle, JUnit/TDD, refactoring, SOLID, web security, databases, Docker, and concurrency**.
 
+Additional computer science coursework covered **algorithms & data structures, C/C++, computer architecture and low-level/assembly concepts, computer networks, databases, data science, and theoretical computer science**.
+
 
 <details>
 <summary><strong>Other academic work</strong></summary>
@@ -43,7 +45,7 @@ Two programming labs (20 ECTS) with practical work in **Java, Spring, Git/Gradle
 ## Tech I have worked with
 
 **Programming & Backend**  
-Java · Python · SQL · C · Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JUnit/TDD · Gradle
+Java · Python · SQL · C · C++ · Spring Boot · Spring MVC · Spring Security · REST APIs · JDBC · JUnit/TDD · Gradle
 
 **Data & Databases**  
 DB2 · SQLite · MySQL · relational data modeling · pandas · NumPy · scikit-learn · Matplotlib
@@ -56,6 +58,9 @@ IBM Workload Scheduler · Dynamic Workload Console · batch processing · IBM Co
 
 **Development & Systems**  
 Git · GitHub/GitLab · Docker · Linux · IntelliJ IDEA · Visual Studio Code
+
+**Computer Science Foundations**  
+Algorithms & Data Structures · Computer Architecture · Low-Level / Assembly Concepts · Computer Networks · TCP/IP · Theoretical Computer Science
 
 ## Experience
 
